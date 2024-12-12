@@ -20,6 +20,7 @@ This repository contains 2 bash scripts. One that generates respective automated
 - [ ] Add Custom Packages/Files
 - [ ] Grub Generator/Add entries to Grub automatically
 - [ ] Curses UI
+- [ ] Unattend Script Converter
 
 ## How to Use
 
