@@ -7,11 +7,19 @@ This repository contains 2 bash scripts. One that generates respective automated
 
 ### TODO List
 
-## How to Run
+## How to Use
 
 ### scriptgen.sh
 
+#### Attended
+
+#### Unattended/Scripted
+
 ### imagegen.sh
+
+#### Attended
+
+#### Unattended/Scripted
 
 ## References
 
