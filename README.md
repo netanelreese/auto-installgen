@@ -7,6 +7,20 @@ This repository contains 2 bash scripts. One that generates respective automated
 
 ### TODO List
 
+#### Necessary
+
+- [ ] Default/Template Scripts
+- [ ] Default Mirrors
+- [ ] Default Grub for each distro
+
+#### Wants
+
+- [ ] Script Validator
+- [ ] ISO Validator
+- [ ] Add Custom Packages/Files
+- [ ] Grub Generator/Add entries to Grub automatically
+- [ ] Curses UI
+
 ## How to Use
 
 ### scriptgen.sh
